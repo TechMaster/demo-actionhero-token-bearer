@@ -1,0 +1,19 @@
+{
+  "name": "ah-tokenbearer",
+  "version": "1.0.0",
+  "description": "Demo ActionHero authentication using token bearer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ActionHero",
+    "Token",
+    "Bearer"
+  ],
+  "author": "Trịnh Minh Cường",
+  "license": "MIT",
+  "dependencies": {
+    "actionhero": "^16.0.0"
+  }
+}
